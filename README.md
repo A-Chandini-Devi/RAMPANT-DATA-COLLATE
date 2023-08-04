@@ -1,4 +1,4 @@
-# RAMPANT-DATA-COLLATE---C-Project
+# RAMPANT-DATA-COLLATE-C-Project
 
 **ABSTRACT**
 
