@@ -22,36 +22,30 @@ The project adopts a hierarchical file organization using a tree data structure.
 <b>User Benefits:</b><br>
 Through our project, users gain insights into the current pandemic situation in specific countries. The hierarchical structure aids in organizing data, while binary search provides a quick and efficient means to assess the risk level in a particular location. This information empowers users to take necessary precautions when navigating through affected regions.
 <br>
-
-**KEY ALGORITHMS USED**
-
- <p float="left">
-  <img align="right"src="https://github.com/A-Chandini-Devi/RAMPANT-DATA-COLLATE/blob/main/image.png" alt="Bubble Sort" width="400" height="200">
+<br><br>
+**KEY ALGORITHMS USED:**
+  <p float="right">
+  <img align="left"src="https://github.com/A-Chandini-Devi/RAMPANT-DATA-COLLATE/blob/main/image.png" alt="Bubble Sort" width="250" height="250">
+  <em><b>1 Bubble Sort:</b></em>
   <br>
-  <em><b>Binary Search:</b> </em>
+    Utilized as a sorting algorithm to organize the collected data systematically, ensuring ease of analysis and interpretation.
+  </p>
+  <br><br><br><br><br><br><br><br><br>
+  <p float="right">
+  <img align="left"src="https://github.com/A-Chandini-Devi/RAMPANT-DATA-COLLATE/blob/main/Binary-Search.png" alt="Bubble Sort" width="250" height="250">
+  <em><b>2 Binary Search:</b> </em>
   <br>
    A fundamental search algorithm implemented for efficient retrieval of pandemic data, offering users quick access to relevant information.
   </p>
   <br>
-  
-  <p float="left">
-  <img align="right"src="https://github.com/A-Chandini-Devi/RAMPANT-DATA-COLLATE/blob/main/image.png" alt="Bubble Sort" width="400" height="200">
-  <br>
-  <em><b>Bubble Sort:</b></em>
-  <br>
-    Utilized as a sorting algorithm to organize the collected data systematically, ensuring ease of analysis and interpretation.
-  </p>
-  <br>
-  
-  <p float="left">
-  <img align="right"src="https://github.com/A-Chandini-Devi/RAMPANT-DATA-COLLATE/blob/main/image.png" alt="Bubble Sort" width="400" height="200">
-  <br>
-  <em><b>Data Structure (Tree Concept):</b></em>
-  <br>
+  <br><br><br><br><br><br><br><br>
+  <p float="right">
+  <img align="left"src="https://github.com/A-Chandini-Devi/RAMPANT-DATA-COLLATE/blob/main/Binary-Search-Tree.png" alt="Bubble Sort" width="400" height="200">
+  <em><b>3 Data Structure (Tree Concept):</b></em>
      The hierarchical arrangement of files adopts the tree concept of data structures, providing an organized framework for storing and retrieving pandemic data.
   </p>
-  <br><br><br><br>
-  
+  <br><br><br><br><br><br>
+ 
  By implementing these a simple Data collection and accessing is being structured without the use of DataBase to understand the actuall functionality of the RDBMS and related Data Storage platforms.
  
 # PROJECT WORKFLOW
