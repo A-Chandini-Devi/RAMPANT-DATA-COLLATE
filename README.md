@@ -1,13 +1,15 @@
 # RAMPANT-DATA-COLLATE
 C | Mini Project | A simple Data Structure Implementation
-
+<br><br>
+[![Code File](https://img.shields.io/badge/Open-Main%20File-yellow?style=circle-circle)](https://github.com/A-Chandini-Devi/RAMPANT-DATA-COLLATE/tree/main)
+<br>
 # Motivation
-This is the very first project I worked on and wanted to implement few sorting and searching algorithms and Data Structure as a beginner. And explore the world of programming as my first year project of my curriculum. In this project I have tried to implement these basic concepts for an programmer on the few COVID - 19 data collected manually from the government websites those were active when we implemented it.
+My first ever project in programming focused on sorting and searching algorithms and data structures. The project aims to apply these concepts to the COVID-19 crisis, using data from government websites. Aim to understand information organization and retrieval through sorting and searching algorithms. This project represents a proactive engagement with contemporary issues, demonstrating the power of coding for practical problem-solving.
 
 # ABSTRACT
-This project is aimed at developing THE RAMPANT DATA COLLATE by using C programming language. Here we help you to get the updates on pandemic cases which is spreading so fast across the 
-countries of the world which helps you to get the right knowledge about the vulnerability of the particular countries those u need to know. So here by we ensure an effective solution for the real time problem through our project. Here the files will be arranged in an hierarchical format where we use tree concept of data structures. Array are used to pile up the data about the pandemic spread in that country will be in the array format. The solution of our project is determined with the concept of binary search . Here by our user gets an idea about the risk 
-in that particular country when he/ she reaches there which helps him/ her to take necessary precautions.
+The project titled "The Rampant Data Collate" is a comprehensive initiative developed using the C programming language. It addresses the urgent need for timely information on the rapidly spreading pandemic cases worldwide, providing crucial insights into the vulnerability of specific countries. The project aims to deliver an effective solution to the real-time challenges posed by the global health crisis. 
+
+Employing a hierarchical file arrangement utilizing the tree concept of data structures, the project strategically organizes data files. The pandemic spread data for each country is systematically compiled in array formats. The cornerstone of our solution lies in the implementation of the binary search concept, enabling users to assess the risk levels in specific countries. This functionality empowers individuals to make informed decisions and take necessary precautions when planning to travel, contributing to a collective effort in managing the ongoing pandemic.
 
 # INTRODUCTION
 <b>COVID-19 Data Collection:</b> <br>
