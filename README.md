@@ -24,11 +24,34 @@ Through our project, users gain insights into the current pandemic situation in 
 <br>
 
 **KEY ALGORITHMS USED**
-<ol>
-  <li><b>Binary Search:</b> A fundamental search algorithm implemented for efficient retrieval of pandemic data, offering users quick access to relevant information.</li>
-  <li><b>Bubble Sort:</b> Utilized as a sorting algorithm to organize the collected data systematically, ensuring ease of analysis and interpretation. </li>
-  <li><b>Data Structure (Tree Concept):</b> The hierarchical arrangement of files adopts the tree concept of data structures, providing an organized framework for storing and retrieving pandemic data.</li>
-  </ol>
+
+ <p float="left">
+  <img align="right"src="https://github.com/A-Chandini-Devi/RAMPANT-DATA-COLLATE/blob/main/image.png" alt="Bubble Sort" width="400" height="200">
+  <br>
+  <em><b>Binary Search:</b> </em>
+  <br>
+   A fundamental search algorithm implemented for efficient retrieval of pandemic data, offering users quick access to relevant information.
+  </p>
+  <br>
+  
+  <p float="left">
+  <img align="right"src="https://github.com/A-Chandini-Devi/RAMPANT-DATA-COLLATE/blob/main/image.png" alt="Bubble Sort" width="400" height="200">
+  <br>
+  <em><b>Bubble Sort:</b></em>
+  <br>
+    Utilized as a sorting algorithm to organize the collected data systematically, ensuring ease of analysis and interpretation.
+  </p>
+  <br>
+  
+  <p float="left">
+  <img align="right"src="https://github.com/A-Chandini-Devi/RAMPANT-DATA-COLLATE/blob/main/image.png" alt="Bubble Sort" width="400" height="200">
+  <br>
+  <em><b>Data Structure (Tree Concept):</b></em>
+  <br>
+     The hierarchical arrangement of files adopts the tree concept of data structures, providing an organized framework for storing and retrieving pandemic data.
+  </p>
+  <br><br><br><br>
+  
  By implementing these a simple Data collection and accessing is being structured without the use of DataBase to understand the actuall functionality of the RDBMS and related Data Storage platforms.
  
 # PROJECT WORKFLOW
