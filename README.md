@@ -1,7 +1,7 @@
 # RAMPANT-DATA-COLLATE
 C | Mini Project | A simple Data Structure Implementation
 <br><br>
-[![Code File](https://img.shields.io/badge/Open-Main%20File-yellow?style=circle-circle)](https://github.com/A-Chandini-Devi/RAMPANT-DATA-COLLATE/tree/main)
+[![Code File](https://img.shields.io/badge/Open-Main%20File-yellow?style=circle-circle)](https://github.com/A-Chandini-Devi/RAMPANT-DATA-COLLATE/blob/main/main/main.c)
 <br>
 # Motivation
 My first ever project in programming focused on sorting and searching algorithms and data structures. The project aims to apply these concepts to the COVID-19 crisis, using data from government websites. Aim to understand information organization and retrieval through sorting and searching algorithms. This project represents a proactive engagement with contemporary issues, demonstrating the power of coding for practical problem-solving.
